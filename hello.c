@@ -33,10 +33,28 @@
 multiple line commment
 */
 
-int main(){
-    printf("helloC \n");
-    printf("helloC \n");
-    printf("helloC \n");
-    printf("helloC \n");
-    printf("helloC \n");
-}
+// int main(){
+//     printf("helloC \n");
+//     printf("helloC \n");
+//     printf("helloC \n");
+//     printf("helloC \n");
+//     printf("helloC \n");
+// }
+
+
+
+//output
+
+/*
+integers
+printf("age is %d", age);
+
+
+real numbers
+printf("value of pi is %f", pi);
+
+
+characters
+printf("value of star is %c", star);
+*/
+
