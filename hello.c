@@ -5,6 +5,16 @@
 //     return 0;
 // }
 
+
+
 // variables -- the name of a memory location which stores some data
 
 
+int main(){
+
+    int number = 25;
+    char star = "*";
+    int age = 22;
+    float pi = 3.14;
+
+}
