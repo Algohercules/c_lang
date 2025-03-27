@@ -58,3 +58,21 @@ characters
 printf("value of star is %c", star);
 */
 
+// int main(){
+//     printf("adarsh is here in the world of coding");
+//     return 0;
+// }
+
+
+//input
+
+// scanf("%d", &age);
+
+
+int main(){
+    int age;
+    printf("eneter age");
+    scanf("%d", &age);
+    printf("age is : %d", age);
+    return 0;
+}
