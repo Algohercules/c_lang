@@ -64,15 +64,37 @@ printf("value of star is %c", star);
 // }
 
 
+
+
 //input
 
 // scanf("%d", &age);
 
 
+// int main(){
+//     int age;
+//     printf("eneter age");
+//     scanf("%d", &age);
+//     printf("age is : %d", age);
+//     return 0;
+// }
+
+
+
+
 int main(){
-    int age;
-    printf("eneter age");
-    scanf("%d", &age);
-    printf("age is : %d", age);
-    return 0;
+    int a , b;
+    prinf("enetr a");
+    scanf("%d", &a);
+
+    printf("enter b");
+    scanf("%d", &b);
+
+    int sum = a + b;
+    printf("sum is :  %d", sum);
+        return 0;
 }
+
+
+
+
