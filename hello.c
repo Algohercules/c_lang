@@ -33,3 +33,10 @@
 multiple line commment
 */
 
+int main(){
+    printf("helloC \n");
+    printf("helloC \n");
+    printf("helloC \n");
+    printf("helloC \n");
+    printf("helloC \n");
+}
