@@ -98,15 +98,33 @@ printf("value of star is %c", star);
 
 
 //area of square
-int main(){
+// int main(){
  
-    float radius;
-    printf("enter radius");
-    scanf("%f", &radius);
+//     float radius;
+//     printf("enter radius");
+//     scanf("%f", &radius);
 
-    printf( "area is : %f", 3.14 * radius * radius);
-    return 0;
-}
+//     printf( "area is : %f", 3.14 * radius * radius);
+//     return 0;
+// }
+
+
+
+
+
+
+// inrstructions and operators
+
+
+// type declaration instructions --> declare variable before using it 
+// arithmetic instructions  -->  
+// control instructions
+
+
+
+
+
+
 
 
 
