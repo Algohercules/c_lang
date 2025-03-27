@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<math.h>
 
 // int main(){
 //     printf("hello world");
@@ -19,9 +20,9 @@
 
 // }
 
-// variables are vase sensitive 
+// variables are case sensitive 
 // 1st character is alphabet or _
-// no comma/ blanch space
+// no comma/ blanck space
 // no other symbol than _
 
 
@@ -117,8 +118,39 @@ printf("value of star is %c", star);
 
 
 // type declaration instructions --> declare variable before using it 
-// arithmetic instructions  -->  
-// control instructions
+
+// int main(){
+//     int a = 22;
+//     int b = a;
+//     int c = a + b;
+//     int d = 1 , e;
+
+// }
+
+
+// int main(){
+
+//     int years = 2;
+//     int oldAge = 22;
+//     int newAge = oldAge + years;
+    
+//     return 0;
+
+// }
+
+
+
+//variable type conversion
+
+//  int main(){
+//     int a = (int)1.9999;
+//     printf("%d \n", a);
+//     return 0;
+//  }
+//compiler will forcefully convert the data into int
+
+
+
 
 
 
