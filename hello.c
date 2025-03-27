@@ -82,18 +82,32 @@ printf("value of star is %c", star);
 
 
 
+// int main(){
+//     int a , b;
+//     prinf("enetr a");
+//     scanf("%d", &a);
+
+//     printf("enter b");
+//     scanf("%d", &b);
+
+//     int sum = a + b;
+//     printf("sum is :  %d", sum);
+//         return 0;
+// }
+
+
+
+//area of square
 int main(){
-    int a , b;
-    prinf("enetr a");
-    scanf("%d", &a);
+ 
+    float radius;
+    printf("enter radius");
+    scanf("%f", &radius);
 
-    printf("enter b");
-    scanf("%d", &b);
-
-    int sum = a + b;
-    printf("sum is :  %d", sum);
-        return 0;
+    printf( "area is : %f", 3.14 * radius * radius);
+    return 0;
 }
+
 
 
 
